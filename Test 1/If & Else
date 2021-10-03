@@ -1,0 +1,16 @@
+Find the output.
+
+int p = 100;
+if(p > 20) {
+    if(p < 20) {
+        printf("coding");
+    }
+} else {
+    printf("ninjas");
+}
+
+
+
+
+
+ANSWER:  No Output 
