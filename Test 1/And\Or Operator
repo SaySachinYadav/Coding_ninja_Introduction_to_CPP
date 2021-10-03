@@ -1,0 +1,8 @@
+Please select the correct statement(s) about && and || operators.
+
+
+
+
+
+CORRECT:    (a || b) && c is true if c is true and either a or b is true 
+             a || b is true if either a or b is true 
