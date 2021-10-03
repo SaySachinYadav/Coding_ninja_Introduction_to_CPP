@@ -1,0 +1,19 @@
+What is the output ?
+
+
+#include <iostream>
+using namespace std;
+int main()
+{
+       char c = 74;
+       cout << c;
+       return 0;
+}
+
+
+Answer:  J
+
+
+Solution Description
+When we assign an integer to a character variable, that integer will be treated as ASCII value of corresponding character.
+74 is ASCII value of letter 'J'. Hence, 'J' will be printed.
