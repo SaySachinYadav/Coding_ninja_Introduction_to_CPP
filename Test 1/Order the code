@@ -1,0 +1,12 @@
+Write the correct order(s) of statements.
+We want to print "Coding Ninjas" 10 times.
+1.  while(x <= 10) {
+2.  int x = 1;
+3.  x += 1;
+4.  print("Coding Ninjas\n");
+5.  }
+
+
+
+Correct:  2 1 3 4 5 
+          2 1 4 3 5 
