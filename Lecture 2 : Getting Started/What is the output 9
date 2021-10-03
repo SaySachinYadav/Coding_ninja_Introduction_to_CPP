@@ -1,0 +1,22 @@
+What is the output ?
+
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a = 10;
+    char ch = 'a';
+    ch = ch + a;
+    cout << ch << endl;
+}
+
+
+Answer:  k
+
+
+
+Solution Description
+We know that the addition of a character and an integer leads to an integer. 
+So the statement - "ch + a" will give the answer 107 (ASCII value of 'a' is 97). But we are assigning this integer now to the character variable. 
+Hence, 107 will be saved in the variable "ch" and on printing it will print the character which is having ASCII value 107 i.e. 'k'. 
