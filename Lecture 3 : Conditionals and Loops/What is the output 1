@@ -12,3 +12,13 @@ int main()
         cout << “Hey ”;
     } 
 }
+
+
+
+Correct Answer: Hello Hi 
+
+
+
+Solution Description
+First if condition is true, so "Hello " will be printed. After that, next if condition will be evaluated (as both if's are independent if's) which is again true. 
+Hence, next "Hi " will be printed (obviously in same line). We won't go inside else, as if is already executed.
