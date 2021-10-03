@@ -1,0 +1,13 @@
+What will be the output ?
+
+for(int i = 0; i < 2; i = i + 1) {
+     for(int j = 0; j < 2; j = j + 1) {
+          if (j == 1)
+              break;
+          cout << j << " ";
+      }
+ } 
+ 
+ 
+ 
+Correct Answer:   0 0
