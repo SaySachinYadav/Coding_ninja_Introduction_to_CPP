@@ -1,0 +1,11 @@
+Figure out the output
+int x = 10;
+while(x >= 0) {
+    x = x - 1;
+    print(x);
+    x--;
+}
+
+
+
+Correct Answer:  97531-1 
