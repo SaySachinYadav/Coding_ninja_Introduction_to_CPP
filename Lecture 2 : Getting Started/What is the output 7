@@ -1,0 +1,13 @@
+What will be the output of following statement ?
+
+
+int i = 'c';
+cout << i;
+
+
+Answer:  99
+
+
+
+Solution Description
+When we put char 'c' into an integer, its ASCII value will be put in the integer i.e. 99.
