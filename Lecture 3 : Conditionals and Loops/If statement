@@ -1,0 +1,15 @@
+For what values of the x is an if-statement block not executed ?
+
+
+       if((1+x) != (1-x)) {
+          cout<<"In if block";
+         }
+         
+         
+        
+Correct Answer: 0 
+
+
+
+Solution Description
+The if-statement block is only not executed when the value of x is  0. For all other values, it will be treated as true.
