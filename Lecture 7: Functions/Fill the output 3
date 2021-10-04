@@ -1,0 +1,17 @@
+What will be the output of the following code ?
+
+int square(int a){
+    int ans = a * a;
+    return ans;
+}
+
+int main() {
+    int a = 4;
+    a = square(a);
+    cout << a;
+}
+
+
+
+
+Correct Answer:  16
